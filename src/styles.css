@@ -1,0 +1,21 @@
+body {
+  background-color: aliceblue;
+  max-width: 800px;
+  text-align: center;
+  margin: 0 auto;
+}
+img {
+  display: block;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+.container {
+  max-width: 800px;
+  background-color: #fff;
+}
